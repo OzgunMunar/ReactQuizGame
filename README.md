@@ -1,4 +1,4 @@
-# Bob Ziroll's Final React Project
+# Bob Ziroll React Course's Final React Project
 
 This is the final solo project of Bob Ziroll's React video that fetches questions and answers from Open Trivia Database API and scores the user regarding his/her answers.
 

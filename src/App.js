@@ -52,8 +52,6 @@ function App() {
   return (
 
     <div className="main">
-      <img className="yellowDecor" alt="yellow" src="/yellow.png" />
-      <img className="blueDecor" alt="blue" src="/blue.png" />
       {
         (started) ? <Quiz questions={questionData} isFinished = {isStartAgain}/> :
         <div className="main_div_content">
